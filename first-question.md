@@ -1,6 +1,6 @@
 首先这是我们的后台管理的主界面:
 
-[![](https://dn-coding-net-production-pp.qbox.me/47ba818d-95af-4e0d-a84b-1e17966bc372.png "图片")](https://dn-coding-net-production-pp.qbox.me/47ba818d-95af-4e0d-a84b-1e17966bc372.png)
+![](https://dn-coding-net-production-pp.qbox.me/47ba818d-95af-4e0d-a84b-1e17966bc372.png "图片")
 
 1、商品管理  
 点击商品会显示商品列表，可以查看出售中或者已下架的商品，点击右上角不同按钮会刷新不同的信息（建议按照默认顺序来），点击一键刷新会根据默认顺序（依次刷新货架、商品、商品及货架关系）来刷新，可以根据商品分类跟名称搜索想要找的商品。如下图所示：
