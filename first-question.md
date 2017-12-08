@@ -42,5 +42,9 @@
 点击设置  
 可以看到有两个选项，基础设置跟轮播图设置：
 
-这是基础设置：![](https://dn-coding-net-production-pp.qbox.me/f56c906f-1a7c-426b-a289-a149b96eb1c2.png)这是轮播图的设置：![](https://dn-coding-net-production-pp.qbox.me/271872f8-bf71-435f-a3e5-11cea3ad6089.png)总店后台大致的说明就完毕了。
+这是基础设置：![](https://dn-coding-net-production-pp.qbox.me/f56c906f-1a7c-426b-a289-a149b96eb1c2.png)
+
+这是轮播图的设置：![](https://dn-coding-net-production-pp.qbox.me/271872f8-bf71-435f-a3e5-11cea3ad6089.png)
+
+总店后台大致的说明就完毕了。
 
