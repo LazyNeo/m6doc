@@ -1,5 +1,5 @@
 欢乐拼说明手册  
-后台管理换了拼的主界面：
+后台管理欢乐拼的主界面：
 
 [![](https://dn-coding-net-production-pp.qbox.me/2381f893-f6fd-43eb-896d-285da6be8bc5.png "图片")](https://dn-coding-net-production-pp.qbox.me/2381f893-f6fd-43eb-896d-285da6be8bc5.png)
 
