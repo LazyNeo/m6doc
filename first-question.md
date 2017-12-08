@@ -6,7 +6,7 @@
 
 这是修改商品的基本信息。
 
-点击图片选项可以修改商品的图片
+点击图片选项可以修改商品的图片：
 
 ![](https://dn-coding-net-production-pp.qbox.me/a4931a4f-9e80-4fac-893d-954459156488.png)
 
