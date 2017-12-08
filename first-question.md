@@ -1,4 +1,4 @@
-首先这是我们的后台管理的主界面。
+首先这是我们的后台管理的主界面:
 
 [![](https://dn-coding-net-production-pp.qbox.me/47ba818d-95af-4e0d-a84b-1e17966bc372.png "图片")](https://dn-coding-net-production-pp.qbox.me/47ba818d-95af-4e0d-a84b-1e17966bc372.png)
 
@@ -97,6 +97,4 @@
 [![](https://dn-coding-net-production-pp.qbox.me/271872f8-bf71-435f-a3e5-11cea3ad6089.png "图片")](https://dn-coding-net-production-pp.qbox.me/271872f8-bf71-435f-a3e5-11cea3ad6089.png)
 
 总店后台大致的说明就完毕了。
-
-
 
