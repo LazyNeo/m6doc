@@ -6,9 +6,7 @@
 
 ![](https://dn-coding-net-production-pp.qbox.me/1c573028-0e37-4952-b059-8aa736ec00fa.png)
 
-在微页面里选择想要的页面设为主页。点击编辑按钮进入编辑页面：
-
-!\[图片\]\([https://dn-coding-net-production-pp.qbox.me/398088ae-ef4d-4ae3-b5f7-79fa75d90065.png\](https://dn-coding-net-production-pp.qbox.me/398088ae-ef4d-4ae3-b5f7-79fa75d90065.png%29\)
+在微页面里选择想要的页面设为主页。点击编辑按钮进入编辑页面：![](https://dn-coding-net-production-pp.qbox.me/398088ae-ef4d-4ae3-b5f7-79fa75d90065.png)
 
 可以修改标题，点击预览会复制改页面的链接地址，修改完想保存点击上架，移入草稿箱点击保存至草稿箱。
 
