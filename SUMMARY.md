@@ -5,3 +5,4 @@
 * [分店说明手册](fen-dian-shuo-ming-shou-ce.md)
 * [总店后台说明手册](zong-dian-hou-tai-shuo-ming-shou-ce.md)
 
+* [没有权限](not-auth.md)
