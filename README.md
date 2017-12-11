@@ -6,7 +6,7 @@
 
 * [总店后台说明手册](zong-dian-hou-tai-shuo-ming-shou-ce.md)
 
-* 产品库存操作指南
+* [产品库存操作指南](/chan-pin-ku-cun-cao-zuo-zhi-nan.md)
 
 # 问题列表
 
