@@ -8,6 +8,8 @@
 
 * [产品库存操作指南](/chan-pin-ku-cun-cao-zuo-zhi-nan.md)
 
+* [地区商品下架指南](/di-qu-shang-pin-xia-jia-zhi-nan.md)
+
 # 问题列表
 
 * [没有权限](not-auth.md)
