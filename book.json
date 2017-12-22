@@ -1,3 +1,7 @@
 {
-    "plugins": [ "theme-faq" ]
+    "plugins": [ "theme-faq" ],
+    "title" : "M6生鲜在线帮助文档",
+    "description" : "M6生鲜在线帮助文档,可以按关键字搜索相关问题",
+    "author" : "code办公室",
+    "language" : "zh-tw"
 }
