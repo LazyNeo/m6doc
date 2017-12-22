@@ -10,6 +10,8 @@
 
 * [地区商品下架指南](/di-qu-shang-pin-xia-jia-zhi-nan.md)
 
+* [后台配置首页图片指南](/hou-tai-pei-zhi-shou-ye-tu-pian-zhi-nan.md)
+
 # 问题列表
 
 * [没有权限](not-auth.md)
