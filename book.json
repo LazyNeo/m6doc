@@ -3,6 +3,7 @@
     "theme-faq",
     "-search",
     "search-pro",
+    "sitemap-general",
     "disqus"
   ],
   "pluginsConfig": {
@@ -12,6 +13,9 @@
     },
     "disqus": {
       "shortName": "m6doc"
+    },
+    "sitemap-general": {
+      "prefix": "https://lazyneo.gitbooks.io/m6doc/content/"
     }
   },
   "title" : "M6生鲜在线帮助文档",
