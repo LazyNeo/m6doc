@@ -10,4 +10,7 @@
 * [后台配置首页图片指南](hou-tai-pei-zhi-shou-ye-tu-pian-zhi-nan.md)
 * [商城端商品为何不显示](shang-cheng-duan-shang-pin-wei-he-bu-xian-shi.md)
 * [商品配送时间](shang-pin-pei-song-shi-jian.md)
+# 文档
+* [称重文档](./other/weight_doc.md)
+
 
