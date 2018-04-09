@@ -45,6 +45,6 @@ maxLogNum|最大日志条数|10|其他合理数字
 
 字段名|字段意义|默认值|可选其他值
 ---|---|---|---
-storeDBUser|门店数据库账号|m6Shake|无
-storeDBPassword|门店数据库密码|m6fresh|无
-storeDBIp|门店数据库ip|192.168.1.21|无
+storeDBUser|门店数据库账号|默认值，不建议修改|无
+storeDBPassword|门店数据库密码|默认值，不建议修改|无
+storeDBIp|门店数据库ip|默认值|无
