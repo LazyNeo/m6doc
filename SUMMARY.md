@@ -12,5 +12,6 @@
 * [商品配送时间](shang-pin-pei-song-shi-jian.md)
 # 文档
 * [称重文档](./other/weight_doc.md)
+* [pos文档](./other/pos_config.md)
 
 
